@@ -8,7 +8,7 @@ pygame.init()
 #Drawing the Window
 WIDTH, HEIGHT = 1000 , 750
 WIN = pygame.display.set_mode((WIDTH,HEIGHT))
-pygame.display.set_caption('Dragonhunt')
+pygame.display.set_caption('Volca-mania')
 game_icon = pygame.image.load('images/icon.jpg')
 pygame.display.set_icon(game_icon)
 FPS=60
