@@ -3,6 +3,8 @@ Volca-mania
   Description
 
 Volca-mania is a simple game built using Pygame where the player controls a character to avoid incoming fireballs and dragons. The objective is to survive as long as possible and score points by avoiding collisions with the enemies.
+![image](https://github.com/user-attachments/assets/2b065690-4c01-474e-ada6-251e25971bbe)
+
 
   Features
 
